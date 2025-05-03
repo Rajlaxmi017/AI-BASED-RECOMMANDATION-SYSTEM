@@ -16,3 +16,5 @@ DESCRIPTION OF TASK : This Java program implements a User-Based Recommendation S
 Then, it generates top 3 recommended items for a given user (default: User 4). The program also prints all users and items in the dataset for debugging.
 
 OUTPUT
+
+![Image](https://github.com/user-attachments/assets/482fa3f0-d13d-41b5-9f7f-8f33200e5367)
